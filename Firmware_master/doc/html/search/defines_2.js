@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['coder_5fa_5fpin',['CODER_A_Pin',['../incr__encoder_8h.html#a95b4b81dd84b57a39e33155f6bc393a1',1,'incr_encoder.h']]],
+  ['coder_5fa_5fpinsource',['CODER_A_PinSource',['../incr__encoder_8h.html#a3453af53c049abc1d4787cbb70ec2525',1,'incr_encoder.h']]],
+  ['coder_5fa_5fport',['CODER_A_Port',['../incr__encoder_8h.html#a0b851e6ff65c520f53187953d0c2bd1e',1,'incr_encoder.h']]],
+  ['coder_5fb_5fpin',['CODER_B_Pin',['../incr__encoder_8h.html#a38cfc5c53e9101e7321316f401a58816',1,'incr_encoder.h']]],
+  ['coder_5fb_5fpinsource',['CODER_B_PinSource',['../incr__encoder_8h.html#a29b6e0b887328ae7cd83beb5b17abb91',1,'incr_encoder.h']]],
+  ['coder_5fb_5fport',['CODER_B_Port',['../incr__encoder_8h.html#afa11a2e4574a130c5217da6713acea95',1,'incr_encoder.h']]],
+  ['coder_5fi_5fpin',['CODER_I_Pin',['../incr__encoder_8h.html#a5c5cce9bd16be005b63771ca2e9bcc66',1,'incr_encoder.h']]],
+  ['coder_5fi_5fport',['CODER_I_Port',['../incr__encoder_8h.html#a80f04427c857818fdc5589e05438206e',1,'incr_encoder.h']]],
+  ['coder_5findex_5firq_5fpriority',['CODER_INDEX_IRQ_PRIORITY',['../main_8h.html#adf8bc0ee5bdde0a0d85fc7cc553a7fbd',1,'main.h']]],
+  ['coder_5fresolution',['CODER_RESOLUTION',['../incr__encoder_8h.html#a599536112799d967940b80e4790f7f2a',1,'incr_encoder.h']]],
+  ['comm_5fbuffer_5fsize',['COMM_BUFFER_SIZE',['../communication_8c.html#a4503eff96c7f6b63c6c22d56b9760cc7',1,'communication.c']]],
+  ['control_5floop_5firq_5fpriority',['CONTROL_LOOP_IRQ_PRIORITY',['../main_8h.html#a3e8a9d812fb57310c0d1a906e43c0c56',1,'main.h']]],
+  ['current_5fintegrator_5fsat_5fdefault_5fval',['CURRENT_INTEGRATOR_SAT_DEFAULT_VAL',['../torque__regulator_8c.html#a9d17c9bcf004b38e770329a438b0629a',1,'torque_regulator.c']]],
+  ['current_5floop_5firq_5fpriority',['CURRENT_LOOP_IRQ_PRIORITY',['../main_8h.html#abc094ccd995395bf0ffb97e090f49fc5',1,'main.h']]],
+  ['current_5floop_5fperiod',['CURRENT_LOOP_PERIOD',['../torque__regulator_8c.html#a8bb2e0ed8f58312ac0a6503b62cb1c06',1,'torque_regulator.c']]],
+  ['current_5floop_5fpwm_5fmax_5fduty_5fcycle',['CURRENT_LOOP_PWM_MAX_DUTY_CYCLE',['../torque__regulator_8c.html#a96c3e3aa9f192d8853e8d7a39303e1a5',1,'torque_regulator.c']]],
+  ['current_5fscale_5fresol',['CURRENT_SCALE_RESOL',['../h__bridge_8h.html#a01523daf99d8e25dc75a7ad85b5c372b',1,'h_bridge.h']]],
+  ['current_5fshunt_5famplifier_5fgain',['CURRENT_SHUNT_AMPLIFIER_GAIN',['../main_8h.html#a1e9176cded95f951fe5a8360c2afb09f',1,'main.h']]],
+  ['current_5fshunt_5fresistance',['CURRENT_SHUNT_RESISTANCE',['../main_8h.html#a83b6c91623150f45152e9c2d4698f9d1',1,'main.h']]]
+];

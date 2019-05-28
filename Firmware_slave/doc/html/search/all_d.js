@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['pc_5fmessage_5fdo_5fnothing',['PC_MESSAGE_DO_NOTHING',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a5301cfd336f01cb3cffcb7edcb887fa3',1,'definitions.h']]],
+  ['pc_5fmessage_5fget_5fvar',['PC_MESSAGE_GET_VAR',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a308f23574ce9559c22d1768ba1a32a58',1,'definitions.h']]],
+  ['pc_5fmessage_5fget_5fvars_5flist',['PC_MESSAGE_GET_VARS_LIST',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a193b2cb3774186146aac015616cbe811',1,'definitions.h']]],
+  ['pc_5fmessage_5fping',['PC_MESSAGE_PING',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a9eb90bd7434cd802944b13b40cc74b85',1,'definitions.h']]],
+  ['pc_5fmessage_5fset_5fstreamed_5fvar',['PC_MESSAGE_SET_STREAMED_VAR',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a1bd3032298ad1f2cb61be777a8199256',1,'definitions.h']]],
+  ['pc_5fmessage_5fset_5fvar',['PC_MESSAGE_SET_VAR',['../definitions_8h.html#a411d22e7c2f6c190516cc491240dbfc2a9428220e82d512bcf1a892ed12071aa1',1,'definitions.h']]],
+  ['pid_2ec',['pid.c',['../pid_8c.html',1,'']]],
+  ['pid_2eh',['pid.h',['../pid_8h.html',1,'']]],
+  ['pid_5finit',['pid_Init',['../group___p_i_d.html#ga107c7006ccf600d9554ab3bdd7640415',1,'pid_Init(pid_Pid *pid, float32_t kp, float32_t ki, float32_t kd, float32_t arw, float32_t feedforward):&#160;pid.c'],['../group___p_i_d.html#ga107c7006ccf600d9554ab3bdd7640415',1,'pid_Init(pid_Pid *pid, float32_t kp, float32_t ki, float32_t kd, float32_t arw, float32_t feedforward):&#160;pid.c']]],
+  ['pid_5fpid',['pid_Pid',['../structpid___pid.html',1,'']]],
+  ['pid_5fstep',['pid_Step',['../group___p_i_d.html#ga78632d27c4c746218bd946fcab9a2dc8',1,'pid_Step(pid_Pid *pid, float32_t current, float32_t target, float32_t dt):&#160;pid.c'],['../group___p_i_d.html#ga78632d27c4c746218bd946fcab9a2dc8',1,'pid_Step(pid_Pid *pid, float32_t current, float32_t target, float32_t dt):&#160;pid.c']]],
+  ['pin',['pin',['../structled___led.html#ac024c59d4eaee2af6322f3d03482f627',1,'led_Led']]],
+  ['pinsource',['pinSource',['../structled___led.html#af254007616182c4c672e2b960089b9ca',1,'led_Led']]],
+  ['previouserr',['previousErr',['../structpid___pid.html#a9a28c1acd233891ac8c8ef43b3ad2fa6',1,'pid_Pid']]],
+  ['pwm1_5fpin',['PWM1_Pin',['../h__bridge_8h.html#ad783db3e5c90c2267c350b44c278f80d',1,'h_bridge.h']]],
+  ['pwm1_5fport',['PWM1_Port',['../h__bridge_8h.html#a4f83e3fe0af73b958b634507f43c9949',1,'h_bridge.h']]],
+  ['pwm2_5fpin',['PWM2_Pin',['../h__bridge_8h.html#a1821fea71921d204647caf4a57a17387',1,'h_bridge.h']]],
+  ['pwm2_5fport',['PWM2_Port',['../h__bridge_8h.html#a99cd06b9457a667ec72e429f658072a5',1,'h_bridge.h']]],
+  ['pwm_5ffrequency',['PWM_FREQUENCY',['../h__bridge_8h.html#a6177eb86ee16a1956c81749e4e332cf0',1,'h_bridge.h']]],
+  ['pwm_5fresol_5fshift_5fdwn',['PWM_RESOL_SHIFT_DWN',['../h__bridge_8h.html#a947dd0e6baf546379091cd7da4b1330e',1,'h_bridge.h']]],
+  ['pwm_5ftim_5fperiode',['PWM_TIM_PERIODE',['../h__bridge_8h.html#a85764cf4a752e34607a6e87a7abf8ef5',1,'h_bridge.h']]],
+  ['pwm_5ftim_5fprescaler',['PWM_TIM_PRESCALER',['../h__bridge_8h.html#a105d6eec6a51ca1012b0d3d5f6759cd6',1,'h_bridge.h']]]
+];

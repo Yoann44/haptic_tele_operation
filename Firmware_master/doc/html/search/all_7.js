@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['h_5fbridge_2ec',['h_bridge.c',['../h__bridge_8c.html',1,'']]],
+  ['h_5fbridge_2eh',['h_bridge.h',['../h__bridge_8h.html',1,'']]],
+  ['h_5fbridge_5fsupply_5fvoltage',['H_BRIDGE_SUPPLY_VOLTAGE',['../main_8h.html#a5e1f36305962cf67f7909ac258a4091b',1,'main.h']]],
+  ['hall_2ec',['hall.c',['../hall_8c.html',1,'']]],
+  ['hall_2eh',['hall.h',['../hall_8h.html',1,'']]],
+  ['hall_5fampli_5fgain',['HALL_AMPLI_GAIN',['../hall_8c.html#a8018b95b73d47d747e23159fe8686df5',1,'hall.c']]],
+  ['hall_5fchannel',['hall_channel',['../hall_8c.html#a10e613b48d18db9b1b67e099d7d8c789',1,'hall.c']]],
+  ['hall_5fgetvoltage',['hall_GetVoltage',['../group___hall.html#gab59cc0073045afc3f6f00ee9ad0e257e',1,'hall_GetVoltage(void):&#160;hall.c'],['../group___hall.html#gab59cc0073045afc3f6f00ee9ad0e257e',1,'hall_GetVoltage(void):&#160;hall.c']]],
+  ['hall_5finit',['hall_Init',['../group___hall.html#gaec0d308c1b1ee0e317c2dc9610432751',1,'hall_Init(AdcChannel channel):&#160;hall.c'],['../group___hall.html#gaec0d308c1b1ee0e317c2dc9610432751',1,'hall_Init(AdcChannel channel):&#160;hall.c']]],
+  ['hall_5fvolt_5fdivider',['HALL_VOLT_DIVIDER',['../hall_8c.html#a27b111e14c96631188f6435e405d3ca0',1,'hall.c']]],
+  ['hapt_5fencoderpaddleangle',['hapt_encoderPaddleAngle',['../haptic__controller_8c.html#a165e825a2b232c0e0b24834f962d0bc9',1,'haptic_controller.c']]],
+  ['hapt_5fhallvoltage',['hapt_hallVoltage',['../haptic__controller_8c.html#aeb1fa1d1857d8667251d7e8d6b838cff',1,'haptic_controller.c']]],
+  ['hapt_5finit',['hapt_Init',['../group___haptic_controller.html#ga5a34049e196fada506871b4dde8c08ce',1,'hapt_Init(void):&#160;haptic_controller.c'],['../group___haptic_controller.html#ga5a34049e196fada506871b4dde8c08ce',1,'hapt_Init(void):&#160;haptic_controller.c']]],
+  ['hapt_5fmotortorque',['hapt_motorTorque',['../haptic__controller_8c.html#a9ebaa0fbf57d5f8c689468ae84b3241f',1,'haptic_controller.c']]],
+  ['hapt_5ftimestamp',['hapt_timestamp',['../communication_8c.html#aa073c4da7204a5fa289248686b76ca6d',1,'hapt_timestamp():&#160;haptic_controller.c'],['../haptic__controller_8c.html#aa073c4da7204a5fa289248686b76ca6d',1,'hapt_timestamp():&#160;haptic_controller.c']]],
+  ['hapt_5fupdate',['hapt_Update',['../haptic__controller_8c.html#aefe1ed0a0c682de3d0bdb4c8db8b2fa2',1,'haptic_controller.c']]],
+  ['haptic_5fcontroller_2ec',['haptic_controller.c',['../haptic__controller_8c.html',1,'']]],
+  ['haptic_5fcontroller_2eh',['haptic_controller.h',['../haptic__controller_8h.html',1,'']]],
+  ['hb_5fdisable',['hb_Disable',['../group___h___bridge.html#ga1d7cca8225111d5cdca1ed21245d8065',1,'hb_Disable():&#160;h_bridge.c'],['../group___h___bridge.html#ga1d7cca8225111d5cdca1ed21245d8065',1,'hb_Disable(void):&#160;h_bridge.c']]],
+  ['hb_5fenable',['hb_Enable',['../group___h___bridge.html#ga642aab843acbf878564d738e200213d3',1,'hb_Enable():&#160;h_bridge.c'],['../group___h___bridge.html#ga642aab843acbf878564d738e200213d3',1,'hb_Enable(void):&#160;h_bridge.c']]],
+  ['hb_5fhasfault',['hb_HasFault',['../group___h___bridge.html#gaa55b32a4c2fa2408743c308d113e493d',1,'hb_HasFault(void):&#160;h_bridge.c'],['../group___h___bridge.html#gaa55b32a4c2fa2408743c308d113e493d',1,'hb_HasFault(void):&#160;h_bridge.c']]],
+  ['hb_5finit',['hb_Init',['../group___h___bridge.html#gac68193eec3674433ab4de51b5365d67a',1,'hb_Init(void):&#160;h_bridge.c'],['../group___h___bridge.html#gac68193eec3674433ab4de51b5365d67a',1,'hb_Init(void):&#160;h_bridge.c']]],
+  ['hb_5fsetpwm',['hb_SetPWM',['../group___h___bridge.html#ga47cbe3068b1b9b9a7b774c7a860b741f',1,'hb_SetPWM(float32_t ratio):&#160;h_bridge.c'],['../group___h___bridge.html#ga47cbe3068b1b9b9a7b774c7a860b741f',1,'hb_SetPWM(float32_t ratio):&#160;h_bridge.c']]],
+  ['hb_5ftim8init',['hb_Tim8Init',['../h__bridge_8c.html#aeddf39bb704200fd17337b3475b75074',1,'h_bridge.c']]],
+  ['hri_20board_20firmware_20documentation',['HRI board firmware documentation',['../index.html',1,'']]]
+];
